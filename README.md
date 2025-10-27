@@ -26,7 +26,7 @@
 ---
 ## Aditi @ AI Open-Source Advocate - AI Learnings & Resources Lists ##
 
-|      ** Awesome AI Courses Links **    |    
+|      ** Awesome AI Courses Links/Blogs **    |    
 |      --------------------------------------    |   
 |       **  Freecodecamp - ChatGPT  **           | 
 |       **  Fast.ai - Stable Diffusion   **      |    
